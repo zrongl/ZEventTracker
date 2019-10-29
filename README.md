@@ -22,7 +22,7 @@ pod 'ZEventTracker'
 
 ## Author
 
-ronglei0324@163.com, ronglei0324@163.com
+zrongl, ronglei0324@163.com
 
 ## License
 
