@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HomeViewController</key>
+	<dict>
+		<key>PageEvents</key>
+		<dict>
+			<key>Enter</key>
+			<string>HOME_PAGE_ENTER_EVENT</string>
+			<key>Leave</key>
+			<string>HOME_PAGE_LEAVE_EVENT</string>
+		</dict>
+		<key>ControlEvents</key>
+		<dict>
+			<key>didTapLikeView:</key>
+			<string>HOME_LIKE_VIEW_TAPPED_EVENT</string>
+			<key>tableView:didSelectRowAtIndexPath:</key>
+			<string>HOME_CELL_DID_SELECTED_EVENT</string>
+		</dict>
+	</dict>
+	<key>PofileViewController</key>
+	<dict>
+		<key>PageEvents</key>
+		<dict>
+			<key>Enter</key>
+			<string>Pofile_PAGE_ENTER_EVENT</string>
+			<key>Leave</key>
+			<string>Pofile_PAGE_LEAVE_EVENT</string>
+		</dict>
+		<key>ControlEvents</key>
+		<dict>
+			<key>collectionView:didSelectItemAtIndexPath:</key>
+			<string>HOME_ITEM_DID_SELECTED_EVENT</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

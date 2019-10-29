@@ -1,0 +1,16 @@
+PODS:
+  - ZEventTracker (0.1.0)
+
+DEPENDENCIES:
+  - ZEventTracker (from `../`)
+
+EXTERNAL SOURCES:
+  ZEventTracker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZEventTracker: 9afc47818ce7a42611e808c15610d275ce7b49f3
+
+PODFILE CHECKSUM: ad9806bb4d7b4a2d6c6d62aa1fb76a76226337fc
+
+COCOAPODS: 1.8.3

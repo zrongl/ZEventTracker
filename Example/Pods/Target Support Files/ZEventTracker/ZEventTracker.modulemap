@@ -1,0 +1,6 @@
+framework module ZEventTracker {
+  umbrella header "ZEventTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
